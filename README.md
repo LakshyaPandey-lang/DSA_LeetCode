@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Depth-First Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1096-brace-expansion-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 <!---LeetCode Topics End-->
