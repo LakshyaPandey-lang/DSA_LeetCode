@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0836-rectangle-overlap](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
