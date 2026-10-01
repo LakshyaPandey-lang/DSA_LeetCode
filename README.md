@@ -113,9 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0061-rotate-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
