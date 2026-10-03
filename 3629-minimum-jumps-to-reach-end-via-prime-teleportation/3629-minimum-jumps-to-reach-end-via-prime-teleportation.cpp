@@ -2,7 +2,6 @@ class Solution {
 public:
     int minJumps(vector<int>& nums) {
         int n = nums.size();
-
         if (n == 1) return 0;
 
         int maxVal = *max_element(nums.begin(), nums.end());
@@ -12,19 +11,20 @@ public:
 
         for (int i = 2; i * i <= maxVal; i++) {
             if (isPrime[i]) {
-                for (int j = i * i; j <= maxVal; j += i)
+                for (int j = i * i; j <= maxVal; j += i) {
                     isPrime[j] = false;
+                }
             }
         }
 
-        vector<vector<int>> factors(maxVal + 1);
+        vector<vector<int>> indices(maxVal + 1);
 
         for (int i = 0; i < n; i++) {
             int x = nums[i];
 
             for (int p = 2; p * p <= x; p++) {
                 if (x % p == 0) {
-                    factors[p].push_back(i);
+                    indices[p].push_back(i);
 
                     while (x % p == 0)
                         x /= p;
@@ -32,7 +32,7 @@ public:
             }
 
             if (x > 1)
-                factors[x].push_back(i);
+                indices[x].push_back(i);
         }
 
         vector<int> dist(n, -1);
@@ -59,18 +59,17 @@ public:
                 q.push(i - 1);
             }
 
-            if (isPrime[nums[i]] && !usedPrime[nums[i]]) {
-                int p = nums[i];
-                usedPrime[p] = true;
+            int x = nums[i];
 
-                for (int j : factors[p]) {
+            if (isPrime[x] && !usedPrime[x]) {
+                usedPrime[x] = true;
+
+                for (int j : indices[x]) {
                     if (dist[j] == -1) {
                         dist[j] = dist[i] + 1;
                         q.push(j);
                     }
                 }
-
-                factors[p].clear();
             }
         }
 
