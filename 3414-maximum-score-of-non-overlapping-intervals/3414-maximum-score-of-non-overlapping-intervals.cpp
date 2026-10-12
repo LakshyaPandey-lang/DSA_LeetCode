@@ -1,69 +1,58 @@
 
 class Solution {
 public:
+    using ll = long long;
+
     vector<int> maximumWeight(vector<vector<int>>& intervals) {
         int n = intervals.size();
 
-        vector<array<long long, 4>> a;
+        vector<array<ll, 4>> a(n);
         for (int i = 0; i < n; i++) {
-            a.push_back({
-                intervals[i][0],
-                intervals[i][1],
-                intervals[i][2],
-                i
-            });
+            a[i] = {intervals[i][0], intervals[i][1],
+                    intervals[i][2], i};
         }
 
-        sort(a.begin(), a.end(), [](auto& x, auto& y) {
-            return x[1] < y[1];
-        });
+        sort(a.begin(), a.end());
 
-        vector<long long> ends(n);
+        vector<int> next(n);
         for (int i = 0; i < n; i++) {
-            ends[i] = a[i][1];
+            int l = i + 1, r = n;
+            while (l < r) {
+                int mid = l + (r - l) / 2;
+                if (a[mid][0] > a[i][1])
+                    r = mid;
+                else
+                    l = mid + 1;
+            }
+            next[i] = l;
         }
 
         struct State {
-            long long weight = 0;
-            vector<int> indices;
+            ll score;
+            vector<int> ids;
         };
 
-        vector<vector<State>> dp(5, vector<State>(n + 1));
+        vector<vector<State>> dp(n + 1, vector<State>(5, {0, {}}));
 
-        for (int k = 1; k <= 4; k++) {
-            for (int i = 1; i <= n; i++) {
-                dp[k][i] = dp[k][i - 1];
+        auto better = [](const State& x, const State& y) {
+            if (x.score != y.score)
+                return x.score > y.score;
+            return x.ids < y.ids;
+        };
 
-                long long l = a[i - 1][0];
-                long long w = a[i - 1][2];
-                int idx = a[i - 1][3];
+        for (int i = n - 1; i >= 0; i--) {
+            for (int k = 1; k <= 4; k++) {
+                State skip = dp[i + 1][k];
+                State take = dp[next[i]][k - 1];
 
-                int p = lower_bound(
-                    ends.begin(),
-                    ends.begin() + i - 1,
-                    l
-                ) - ends.begin();
+                take.score += a[i][2];
+                take.ids.push_back((int)a[i][3]);
+                sort(take.ids.begin(), take.ids.end());
 
-                State candidate = dp[k - 1][p];
-                candidate.weight += w;
-
-                candidate.indices.insert(
-                    lower_bound(
-                        candidate.indices.begin(),
-                        candidate.indices.end(),
-                        idx
-                    ),
-                    idx
-                );
-
-                if (candidate.weight > dp[k][i].weight ||
-                    (candidate.weight == dp[k][i].weight &&
-                     candidate.indices < dp[k][i].indices)) {
-                    dp[k][i] = candidate;
-                }
+                dp[i][k] = better(take, skip) ? take : skip;
             }
         }
 
-        return dp[4][n].indices;
+        return dp[0][4].ids;
     }
 };
