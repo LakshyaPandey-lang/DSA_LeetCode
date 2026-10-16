@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Binary Indexed Tree
 |  |
