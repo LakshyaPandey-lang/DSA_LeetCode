@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0835-image-overlap) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1861-rotating-the-box) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
