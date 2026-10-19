@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0048-rotate-image) |
 | [0835-image-overlap](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0835-image-overlap) |
+| [1340-jump-game-v](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1340-jump-game-v) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1096-brace-expansion-ii) |
+| [1340-jump-game-v](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1340-jump-game-v) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1340-jump-game-v](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1340-jump-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
