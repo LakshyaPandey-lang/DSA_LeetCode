@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
