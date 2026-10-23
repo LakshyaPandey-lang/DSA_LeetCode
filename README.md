@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3886-sum-of-sortable-integers) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Indexed Tree
 |  |
 | ------- |
