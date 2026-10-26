@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3660-jump-game-ix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
 |  |
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Math
 |  |
