@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3660-jump-game-ix](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3660-jump-game-ix) |
+| [3665-twisted-mirror-path-count](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
