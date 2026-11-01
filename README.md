@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0835-image-overlap](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1340-jump-game-v](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1340-jump-game-v) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0048-rotate-image) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
