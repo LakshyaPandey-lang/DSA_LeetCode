@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -300,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
