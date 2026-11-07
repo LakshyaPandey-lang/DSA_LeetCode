@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1861-rotating-the-box](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1861-rotating-the-box) |
+| [1882-process-tasks-using-servers](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1882-process-tasks-using-servers](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
