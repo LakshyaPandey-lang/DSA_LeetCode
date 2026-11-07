@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3225-maximum-score-from-grid-operations](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
