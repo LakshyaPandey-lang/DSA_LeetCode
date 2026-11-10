@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3660-jump-game-ix](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3660-jump-game-ix) |
 | [3665-twisted-mirror-path-count](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/LakshyaPandey-lang/DSA_LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
